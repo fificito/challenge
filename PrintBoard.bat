@@ -1,0 +1,1 @@
+osql -iPrintBoard.txt -n -Uplayer -PPlay3r

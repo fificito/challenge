@@ -1,0 +1,2 @@
+exec TicTacToe.dbo.tic_NewBoard
+exec TicTacToe.dbo.tic_PrintBoard
