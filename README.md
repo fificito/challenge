@@ -1,9 +1,9 @@
 # challenge
 INSTRUCTIONS:
 
-1. Make sure tou have SQL Server 2008 R" or greater, Express Edition or greater.
+1. Make sure tou have SQL Server 2008 R2 or greater, Express Edition or greater, on a Windows computer.
 2. Dounload all files.
-3. Execute the SQL script named TicTacToeFull.sql in SQL Server. This will create the datebase and all the necessary obyect.
+3. Execute the SQL script named TicTacToeFull.sql in SQL Server. This will create the datebase and all the necessary objects.
 
 Play actions
 * To start a new game, execute the batch file named NewGame.bat
